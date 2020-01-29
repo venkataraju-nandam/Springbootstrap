@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="15842" started-at="2020-01-09T15:52:43Z" finished-at="2020-01-09T15:52:59Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="15842" started-at="2020-01-09T15:52:43Z" finished-at="2020-01-09T15:52:59Z">
+      <class name="com.poc.springbootstrap.SpringContextTest">
+        <test-method status="PASS" signature="contextLoads()" name="contextLoads" duration-ms="2251" started-at="2020-01-09T15:52:57Z" finished-at="2020-01-09T15:52:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contextLoads -->
+      </class> <!-- com.poc.springbootstrap.SpringContextTest -->
+      <class name="com.poc.springbootstrap.AppTest">
+        <test-method status="PASS" signature="testApp()" name="testApp" duration-ms="17" started-at="2020-01-09T15:52:44Z" finished-at="2020-01-09T15:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.poc.springbootstrap.AppTest -->
+      <class name="com.poc.springbootstrap.SpringBootBootstrapLiveTest">
+        <test-method status="PASS" signature="simpleUriHello() throws java.lang.Exception" name="simpleUriHello" duration-ms="11626" started-at="2020-01-09T15:52:45Z" finished-at="2020-01-09T15:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleUriHello -->
+        <test-method status="PASS" signature="simpleUriHome() throws java.lang.Exception" name="simpleUriHome" duration-ms="11639" started-at="2020-01-09T15:52:45Z" finished-at="2020-01-09T15:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleUriHome -->
+        <test-method status="PASS" signature="simpleUriRoot() throws java.lang.Exception" name="simpleUriRoot" duration-ms="12498" started-at="2020-01-09T15:52:45Z" finished-at="2020-01-09T15:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleUriRoot -->
+      </class> <!-- com.poc.springbootstrap.SpringBootBootstrapLiveTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

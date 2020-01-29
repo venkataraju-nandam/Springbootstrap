@@ -1,0 +1,9 @@
+com\poc\springbootstrap\controller\SimpleController.class
+com\poc\springbootstrap\entitymodel\Book.class
+com\poc\springbootstrap\security\SecurityConfig.class
+com\poc\springbootstrap\controller\BookControllerService.class
+com\poc\springbootstrap\repository\BookRepository.class
+com\poc\springbootstrap\aop\RestExceptionHandler.class
+com\poc\springbootstrap\aop\BookIdMismatchException.class
+com\poc\springbootstrap\aop\BookNotFoundException.class
+com\poc\springbootstrap\SpringbootStrapApplication.class
